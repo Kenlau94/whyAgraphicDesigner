@@ -1,7 +1,23 @@
 {
   "dependencies": {
     "inquirer": "^9.2.10",
-    "install": "^0.13.0",
-    "jest": "^29.6.4"
-  }
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "whyagraphicdesigner",
+  "description": "hi 😉",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
