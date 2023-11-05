@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "inquirer": "^9.2.11",
+    "inquirer": "^8.2.4",
     "install": "^0.13.0",
     "validate-color": "^2.2.4"
   },
