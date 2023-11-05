@@ -70,3 +70,4 @@ Repository contains a high-quality readme with description and a link to a walkt
 [GitHub Repo](https://github.com/Kenlau94/whyAgraphicDesigner)
 
 ## Demonstration
+https://github.com/Kenlau94/whyAgraphicDesigner/assets/134185724/adefecef-d3f4-4f47-992e-462c0c7d1bcd
